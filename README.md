@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning AWS, ML, neo4j, javascript
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: send a pr :) or find me on linkedin: https://www.linkedin.com/in/saltoe/
+- 📫 How to reach me: check my website out www.eriksalto.com
 
 <!---
 esalto98/esalto98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
