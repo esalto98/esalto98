@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erik
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning AWS, ML, neo4j, javascript
+- 🌱 I’m currently interning at American Express, incoming summer '22 SWE intern @Asurion
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: check my website out www.eriksalto.com
 
